@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "dependencies": {
+    "@hocuspocus/provider": "3.4.4",
+    "@hocuspocus/server": "3.4.4",
+    "@redis/client": "5.12.1"
+  }
+}
