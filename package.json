@@ -1,0 +1,6 @@
+{
+  "private": true,
+  "dependencies": {
+    "@redis/client": "5.12.1"
+  }
+}
